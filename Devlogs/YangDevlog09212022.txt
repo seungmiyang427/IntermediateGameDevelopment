@@ -1,0 +1,9 @@
+-Discuss your process of working on your flat game!
+
+
+Hooh boy did I have a lot of annoying issues with this project, which was honestly surprising to me since everything seemed so straightforward during class. The most notable hiccup I ran into was a silly mistake involving the PlayerController and Animator. So there I was, doing your method of player movement/animation. Something went wrong, and I couldn't figure out what it was at first. Buuut instead of trying to fix it, I thought, "Well, maybe I could just switch my workflow to the Unity Animator, right? It looks a lot easier!" WRONG! You were right about working with the Unity Animator. Everything started to get real complicated and nothing I did gave me the results I wanted. I literally ended up breaking my project. Like I deleted every animation without realizing later on the PlayerController script also relies on that. So one meltdown later I just decided it would be best to start over from scratch. And once I did, I noticed... the only reason why the PlayerController code wasn't working in the first place was just because I named something wrong.
+
+Well, unfortunate situations set aside, the rest of the project was a lot more enjoyable, for the most part. I decided to go for a side-scroller because I just started randomly thinking of the Terraria song and it gave me the idea lol. Everything art related was done on Photoshop- the sprites, the backgrounds (they're just old digital paintings of mine), etc. Things worked out pretty seamlessly from then on (except for the camera, I don't know what happened and I just ended up childing it to the Player)!
+
+
+
