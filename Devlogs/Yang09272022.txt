@@ -1,5 +1,16 @@
 -Discuss your process of working on your Rube Goldberg machine!
 
-This was honestly a really painful process lol. To start things off, I had to look up a Youtube tutorial because I still couldn't really get the whole physics thing through my head. Actually, it was pretty helpful so I'm not mad. But the actual project itself. Ohhh man. I hated how trial-and-error-esque it was, especially considering I had no idea what I was really doing until near the end. Pressing play and waiting until I finally got to the part I wanted to see was one thing, but the fact that the whole project didn't work because something was juuuust a few centimeters off... oh man that was frustrating. Once I got everything working though, coloring and doing that particle effect (I looked up a tutorial but ended up playing with it until I got what I wanted) at the end was seamless and fun. 
+
+
+
+This was honestly a really painful process lol. To start things off, I had to look up a Youtube tutorial because I still couldn't really get the whole physics thing through my head. Actually, it was pretty helpful so I'm not mad. 
+
+But the actual project itself. Ohhh man. I hated how trial-and-error-esque it was (it wasn't in a fun way like when I'm drawing something. It was annoyingly tedious), especially considering I had no idea what I was really doing until near the end. Pressing play and waiting until I finally got to the part I wanted to see was one thing, but the fact that the whole project didn't work because something was juuuust a few centimeters off... oh man that was frustrating. 
+
+Also, it really bothered me that I couldn't really change stuff I already did without throwing the whole thing off. Really different workflow. 
+
+Once I got everything working though, coloring (coolors.com came in clutch!) and doing that particle effect at the end was seamless and well, fun (I looked up a tutorial for the end effect but ended up playing with it until I got what I wanted).
 
 As for the WebGL build... I think I broke like literally everything trying to get it to work. So... I'm gonna need to get some help with that...
+
+Update: I got it to work on WebGL/itch! (+ couple additions to what I wrote previously)
