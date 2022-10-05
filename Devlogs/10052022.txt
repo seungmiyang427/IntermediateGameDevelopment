@@ -1,0 +1,7 @@
+Talk about your landscape game - what types of games come to mind? What can you do with what you have? Talk about your brainstorming process.
+
+When I first started thinking about how I can approach this assignment, I knew that I was working with a rather limited landscape— I can really only do a zoomed in sidescroller… Anyways, after staring at the collage for a few solid minutes, I noticed how… boring it was. I thought, “okay, so then what if I make a game where the player tries to ruin it lol”. And then I realized I had a whole playable version of my dog ready; not only would that save me a lot of time and allow me to work on other ambitious scripts, but my dog is also very destructive and “angy”— basically, she is a perfect fit for the game.
+
+So once I put her in this new game, I had to think of how I was to approach the whole destruction part. Honestly I had the initial plan— grab an item and destroy applicable objects with said item, also have a UI that shows my dog’s “rage” depleting for everything she ruins— and then from there I pretty much just winged it. I changed a few things here and there for scope (and also because I couldn’t figure out how to code some of the stuff haha) but all in all I’d say I stuck to my starting idea pretty well.
+
+I was also planning a dialogue system, and I would be really excited to work on that (would give this game more personality), buuut now I have a lot on my plate and have to worry about those if anything… and I only have one more week left :( 
