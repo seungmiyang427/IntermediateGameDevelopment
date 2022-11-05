@@ -1,0 +1,9 @@
+Honestly this was a great project. I learned a bunch of stuff and made a ton of mistakes but got a lot out of those too. With the help of the tutorial series, I was able to get basically everything down— the tiling, player movement/animation, npc dialogue, etc. Though I would also like to say that even though the things we went over in class were basic, sure, they really helped make things click for me— and I think that’s just as valuable.
+
+There were two huge problems I ran into that I’d like to talk about regarding 1) the sprites, and 2) the audio. For the sprites, I really wanted to stay faithful to the original game, looks included. So, I speed-ran Pokemon Black (I had to get past the Elite Four LOL) for the <exclusive> sprites that I wanted to rip and include. But once I got to the goal town I realized that ripping sprites just wouldn’t be possible because of the 3D-ness of the game. At least I got to take a trip down memory lane? I guess at this point I decided to just make a 2D version of the town with... my own twists to it? I don't know, I just put whatever sprites I found pretty here and there. I was honestly just working with what little I had lol. 
+
+The biggest issue I probably ran into, though, was making the audio transitions thingy work. I just couldn’t do it, and I’ve tried many different ways to go about it. I still made sure I reached the audio requirements, but it’s a shame I couldn’t get my goal to work out in the end :( 
+
+If I had more time I would have loved to add complexity to the NPCs (i.e, walking, turning when player interacts) and give another go at the audio stuff. But I’m pretty proud of what I got down within these last couple of weeks! 
+
+P.S. The deadline was much appreciated! Thanks so much for caring about our well-being :’)
