@@ -1,0 +1,6 @@
+- Update your devlog with a new entry (100+ words) 
+- We are doing devlogs again! Discuss working on your final! 
+- Write down 1 question you have about Unity or development in general
+
+
+So to start things off, I made a very basic version of the Start and Pause Screens. Doesn’t look too pretty, but at least it has the code to switch between Scenes. I then made a draft of the Game Screen (using primitives) before coding the Damage Script. I watched a Youtube tutorial on it and the guy explained it alright— plus it’s a pretty straightforward code— so I was able to follow along. It basically controls all the Objects’ health and calculates the force threshold for registering the damage. That’s pretty much it for this week. This isn’t really a question, but I’m still a liiiittle paranoid about the GitHub stuff— I feel like I’ll mess something up big time…
